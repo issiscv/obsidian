@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "23a82e8414067de2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2eb83c02b656040c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "509c28098e83684b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2023-11-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8efefb6ac0ece21f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c2f4b148d0784d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c6e3bc7c312eeae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "024ddc0d83fb0362",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "538ae68a40fcdc1e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7c7af4955a3c268",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d142b97418cc783",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "662871e2478c645a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Daily/2023-11-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8227c1cb9a57b36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Daily/2023-11-20.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0eac38300b09aa09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a34aa901c7cfd129",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Daily/2023-11-20.md"
+              }
+            }
+          },
+          {
+            "id": "92280c242ca71135",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "509c28098e83684b",
+  "lastOpenFiles": [
+    "3. Monthly/2023-11.md",
+    "3. Monthly/2023-10.md",
+    "4. Yearly/2023.md",
+    "2. Weekly/2023-W47.md",
+    "1. Daily/2023-11-20.md",
+    "1. Daily/2023-11-19.md",
+    "1. Daily/2023-11-14.md",
+    "1. Daily/2023-10-29.md",
+    "1. Daily/2023-10-22.md",
+    "2. Weekly/2023-W43.md",
+    "2. Weekly/2023-W46.md",
+    "2023-11-20.md",
+    "무제 파일.canvas",
+    "1. Daily/2023-10-28.md",
+    "1. Daily/2023-10-24.md",
+    "1. Daily/2023-10-23.md",
+    "Attached file/김상운 교육이수증.png",
+    "Obsidian/마크다운 사용법.md",
+    "Obsidian/옵시디언 사용법.md",
+    "Obsidian",
+    "Attached file",
+    "4. Yearly",
+    "3. Monthly",
+    "2. Weekly",
+    "1. Daily"
+  ]
+}
